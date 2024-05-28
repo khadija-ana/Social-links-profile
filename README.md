@@ -27,11 +27,6 @@ disktop screenshot:
 - CSS 
 
 
-### Useful resources
-
-- [w3scools]([https://www.example.com](https://www.w3schools.com/css/css3_mediaqueries.asp)) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-
-
 
 
 
